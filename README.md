@@ -1,4 +1,4 @@
-# Microcontroller Architecturea
+# Microcontroller Architecture
 This project contains the implementation of a custom-designed microcontroller architecture based on Harvard architecture with pipelining. An instruction set architecture similar to MIPS architecture has also been designed and implemented in this project.
 
 ## Note
